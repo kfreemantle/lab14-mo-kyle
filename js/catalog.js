@@ -13,6 +13,15 @@ function populateForm() {
   const selectElement = document.getElementById('items');
   for (let i in state.allProducts) {
 
+// let option = document.createElement('option')
+
+
+
+// //console log the item im on
+// console.log(state.allProducts[i]);
+
+// option.textContent = state.allProducts[i].name;
+
   }
 
 }
